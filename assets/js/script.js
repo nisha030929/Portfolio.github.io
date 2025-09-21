@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Talent acuquaition manager"],
+    strings: ["Talent acquisition manager"],
     loop: true,
     typeSpeed: 60,
     backSpeed: 30,
